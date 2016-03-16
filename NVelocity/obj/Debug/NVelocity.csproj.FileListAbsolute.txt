@@ -1,0 +1,6 @@
+C:\Users\Administrator\Desktop\nvelocity-69709\NVelocity\NVelocity\bin\Debug\NVelocity.dll
+C:\Users\Administrator\Desktop\nvelocity-69709\NVelocity\NVelocity\bin\Debug\NVelocity.pdb
+C:\Users\Administrator\Desktop\nvelocity-69709\NVelocity\NVelocity\bin\Debug\NVelocity.dll.CodeAnalysisLog.xml
+C:\Users\Administrator\Desktop\nvelocity-69709\NVelocity\NVelocity\bin\Debug\NVelocity.dll.lastcodeanalysissucceeded
+C:\Users\Administrator\Desktop\nvelocity-69709\NVelocity\NVelocity\obj\Debug\NVelocity.dll
+C:\Users\Administrator\Desktop\nvelocity-69709\NVelocity\NVelocity\obj\Debug\NVelocity.pdb
